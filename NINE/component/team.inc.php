@@ -4,8 +4,8 @@
             <img src="img/jerome.jpg" alt="">
             <div class="social-icons">
                <a href="https://www.facebook.com/jerome.ariola.334"><i class="bx bxl-facebook"></i></a>
-               <a href="#"><i class="bx bxl-twitter"></i></a>
-               <a href="#"><i class="bx bxl-instagram"></i></a>
+               <a href="https://www.behance.net/jeromeariola"><i class="bx bxl-behance"></i></a>
+               <a href="https://www.instagram.com/jerome.ariola.334/"><i class="bx bxl-instagram"></i></a>
                <a href="#"><i class="bx bxl-github"></i></a>
             </div>
          </div>
@@ -21,9 +21,9 @@
             <img src="img/lander2.png" alt="">
             <div class="social-icons">
                <a href="https://www.facebook.com/Itb.Dhen"><i class="bx bxl-facebook"></i></a>
-               <a href="#"><i class="bx bxl-twitter"></i></a>
+               <a href="https://www.behance.net/landerbiag"><i class="bx bxl-behance"></i></a>
                <a href="#"><i class="bx bxl-instagram"></i></a>
-               <a href="#"><i class="bx bxl-github"></i></a>
+               <a href="https://github.com/Asced20"><i class="bx bxl-github"></i></a>
             </div>
          </div>
          <div class="p-4">
@@ -38,9 +38,9 @@
             <img src="img/steven.jpg" alt="">
             <div class="social-icons">
                <a href="https://www.facebook.com/Charis.Jinxuu"><i class="bx bxl-facebook"></i></a>
-               <a href="#"><i class="bx bxl-twitter"></i></a>
-               <a href="#"><i class="bx bxl-instagram"></i></a>
-               <a href="#"><i class="bx bxl-github"></i></a>
+               <a href="https://www.behance.net/stevendejuan"><i class="bx bxl-behance"></i></a>
+               <a href="https://www.instagram.com/tbnsfdj/"><i class="bx bxl-instagram"></i></a>
+               <a href="https://github.com/naevistar"><i class="bx bxl-github"></i></a>
             </div>
          </div>
          <div class="p-4">
@@ -55,9 +55,9 @@
             <img src="img/jerald.jpg" alt="">
             <div class="social-icons">
                <a href="https://www.facebook.com/niyo.juan.22/"><i class="bx bxl-facebook"></i></a>
-               <a href="#"><i class="bx bxl-twitter"></i></a>
-               <a href="#"><i class="bx bxl-instagram"></i></a>
-               <a href="#"><i class="bx bxl-github"></i></a>
+               <a href="https://www.behance.net/markjeinfante"><i class="bx bxl-behance"></i></a>
+               <a href="https://www.instagram.com/markjeraldfranciscoinfante/"><i class="bx bxl-instagram"></i></a>
+               <a href="https://github.com/eTramS"><i class="bx bxl-github"></i></a>
             </div>
          </div>
          <div class="p-4">
@@ -72,9 +72,9 @@
             <img src="img/vincent.jpg" alt="">
             <div class="social-icons">
                <a href="https://www.facebook.com/vincent.sanbuenaventura"><i class="bx bxl-facebook"></i></a>
-               <a href="#"><i class="bx bxl-twitter"></i></a>
-               <a href="#"><i class="bx bxl-instagram"></i></a>
-               <a href="#"><i class="bx bxl-github"></i></a>
+               <a href="https://www.behance.net/vincenpai"><i class="bx bxl-behance"></i></a>
+               <a href="https://www.instagram.com/vincenpai/"><i class="bx bxl-instagram"></i></a>
+               <a href="https://github.com/Cenpaiiiii"><i class="bx bxl-github"></i></a>
             </div>
          </div>
          <div class="p-4">

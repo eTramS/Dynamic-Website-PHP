@@ -7,7 +7,7 @@
                   <h4 class="logo-text">NINE</h4>
                   <p>Nine is an Indie Game Developer, based in Caloocan, Philippines</p>
                   <div class="social-icons">
-                     <a href="#"><i class="bx bxl-facebook"></i></a>
+                     <a href="https://www.facebook.com/DibbiGames/"><i class="bx bxl-facebook"></i></a>
                      <a href="#"><i class="bx bxl-twitter"></i></a>
                      <a href="#"><i class="bx bxl-instagram"></i></a>
                      <a href="#"><i class="bx bxl-github"></i></a>
@@ -18,9 +18,10 @@
                   <div class="footer-links">
                      <a href="services.php">Services</a>
                      <a href="games.php">Buy Games</a>
+                     <a href="awards.php">Awards</a>
                      <a href="team.php">Team</a>
                      <a href="testimonials.php">Game Reviews</a>
-                     <a href="awards.php">Awards</a>
+                    
                      
                   </div>
                </div>
