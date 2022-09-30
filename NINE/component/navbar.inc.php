@@ -9,25 +9,25 @@
           <ul class="navbar-nav ms-auto">
 
             <li class="nav-item">
-              <a class="nav-link" href="home.php">Home</a>
+              <a href="home.php" class="nav-link  <?php if (basename ($_SERVER['PHP_SELF'])=="home.php"){echo "active";} else {echo "";}?>" >Home</a>
             </li>
             <li class="nav-item">
-               <a class="nav-link " href="services.php">Services</a>
+               <a href="services.php" class="nav-link <?= (basename ($_SERVER['PHP_SELF'])=="services.php")?"active":"";?>" >Services</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" href="games.php">Games</a>
+               <a href="games.php" class="nav-link <?= (basename ($_SERVER['PHP_SELF'])=="games.php")?"active":"";?>" >Games</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" href="awards.php">Awards</a>
+               <a href="awards.php" class="nav-link <?= (basename ($_SERVER['PHP_SELF'])=="awards.php")?"active":"";?>" >Awards</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" href="team.php">Team</a>
+               <a href="team.php" class="nav-link <?= (basename ($_SERVER['PHP_SELF'])=="team.php")?"active":"";?>" >Team</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" href="testimonials.php">Reviews</a>
+               <a href="testimonials.php" class="nav-link <?= (basename ($_SERVER['PHP_SELF'])=="testimonials.php")?"active":"";?>" >Reviews</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link " href="contact.php">Contact</a>
+               <a href="contact.php" class="nav-link <?= (basename ($_SERVER['PHP_SELF'])=="contact.php")?"active":"";?>" >Contact</a>
              </li>
           </ul>
           
